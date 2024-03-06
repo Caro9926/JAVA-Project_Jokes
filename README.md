@@ -13,4 +13,6 @@ El repositorio está organizado de la siguiente manera:
 - 📁 **/config**
 - 📁 **/controladores**
 - 📁 **/modelos**
+- 📁 **/nodemodules**
+- 📁 **/rutas**
 - 📄 **/README.md**: Este archivo, proporcionando una descripción general del proyecto.

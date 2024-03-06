@@ -10,6 +10,7 @@ El proyecto se centra en la implementación de lógica de programación en Java,
 
 El repositorio está organizado de la siguiente manera:
 
-- 📁 **/src**: Directorio que contiene el código fuente del proyecto en Java.
-- 📁 **/assets**: Recursos adicionales utilizados en el diseño de la página.
+- 📁 **/config**
+- 📁 **/controladores**
+- 📁 **/modelos**
 - 📄 **/README.md**: Este archivo, proporcionando una descripción general del proyecto.
